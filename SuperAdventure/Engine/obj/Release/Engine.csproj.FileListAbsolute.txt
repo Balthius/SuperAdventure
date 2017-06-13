@@ -3,3 +3,8 @@ F:\Development\Projects\SuperAdventure\Engine\bin\Release\Engine.pdb
 F:\Development\Projects\SuperAdventure\Engine\obj\Release\Engine.dll
 F:\Development\Projects\SuperAdventure\Engine\obj\Release\Engine.pdb
 F:\Development\Projects\SuperAdventure\Engine\obj\Release\Engine.csprojResolveAssemblyReference.cache
+E:\Local Disk E\Documents\SuperAdventure\SuperAdventure\Engine\bin\Release\Engine.dll
+E:\Local Disk E\Documents\SuperAdventure\SuperAdventure\Engine\bin\Release\Engine.pdb
+E:\Local Disk E\Documents\SuperAdventure\SuperAdventure\Engine\obj\Release\Engine.csprojResolveAssemblyReference.cache
+E:\Local Disk E\Documents\SuperAdventure\SuperAdventure\Engine\obj\Release\Engine.dll
+E:\Local Disk E\Documents\SuperAdventure\SuperAdventure\Engine\obj\Release\Engine.pdb

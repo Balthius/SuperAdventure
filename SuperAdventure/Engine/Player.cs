@@ -199,7 +199,7 @@ namespace Engine
                 XmlNode inventoryItem = playerData.CreateElement("InventoryItem");
 
                 XmlAttribute idAttribute = playerData.CreateAttribute("ID");
-                idAttribute.Value = item.Quantity.ToString();
+                idAttribute.Value = item.Details.ID.ToString();
                 inventoryItem.Attributes.Append(idAttribute);
 
                 XmlAttribute quantityAttribute = playerData.CreateAttribute("Quantity");

@@ -9,3 +9,14 @@ F:\Development\Projects\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure
 F:\Development\Projects\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csproj.GenerateResource.Cache
 F:\Development\Projects\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.exe
 F:\Development\Projects\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.pdb
+E:\Local Disk E\Documents\SuperAdventure\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.exe.config
+E:\Local Disk E\Documents\SuperAdventure\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.exe
+E:\Local Disk E\Documents\SuperAdventure\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.pdb
+E:\Local Disk E\Documents\SuperAdventure\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.exe
+E:\Local Disk E\Documents\SuperAdventure\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.pdb
+E:\Local Disk E\Documents\SuperAdventure\SuperAdventure\SuperAdventure\bin\Release\Engine.dll
+E:\Local Disk E\Documents\SuperAdventure\SuperAdventure\SuperAdventure\bin\Release\Engine.pdb
+E:\Local Disk E\Documents\SuperAdventure\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csprojResolveAssemblyReference.cache
+E:\Local Disk E\Documents\SuperAdventure\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.Properties.Resources.resources
+E:\Local Disk E\Documents\SuperAdventure\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.SuperAdventure.resources
+E:\Local Disk E\Documents\SuperAdventure\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csproj.GenerateResource.Cache
